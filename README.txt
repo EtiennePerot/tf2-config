@@ -1,8 +1,7 @@
 Hey, read this. I know you hate reading READMEs so I'm going to keep this one short.
 
-- Copy the "wind_config" folder and its contents to [SteamInstallDir]\steamapps\common\team 
-  fortress 2\tf\custom (ensuring that custom\wind_config\cfg is created),
-  where [SteamInstallDir] is Steam's installation directory.
+- Extract or git clone this into "steamapps/common/team fortress 2/tf/custom/wind_config" or something,
+  such that you have "steamapps/common/team fortress 2/tf/custom/wind_config/cfg".
 
-- Have a look at [SteamInstallDir]\steamapps\common\team fortress 2\tf\custom\cfg\preferences.cfg.
+- Have a look at "steamapps/common/team fortress 2/tf/custom/wind_config/preferences.cfg".
   You can edit this file to adjust your preferences.
